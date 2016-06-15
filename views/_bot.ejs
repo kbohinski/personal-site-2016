@@ -1,0 +1,12 @@
+<div id="projects-wrapper" class="row">
+    <div id="projects" class="column-100">
+        <h3>Projects</h3>
+        <% for (var i = 0; i < site.posts.length; i++) { %>
+        <div id="post">
+            <h4><a href="<%= site.posts[i].link %>"><%= site.posts[i].title %></a></h4>
+            <span><i><%- site.posts[i].date %></i></span>
+            <span><%- site.posts[i].content %></span>
+        </div>
+        <% } %>
+    </div>
+</div>

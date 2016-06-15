@@ -1,0 +1,22 @@
+{
+  "name": "personal-site-2016",
+  "description": "Kevin Bohinski&#39;s Personal Site",
+  "dependencies": {
+    "autoprefixer-stylus": "0.9.x",
+    "axis": "0.6.x",
+    "coffee-script": "1.x",
+    "css-pipeline": "0.3.x",
+    "dynamic-content": "^0.3.0",
+    "ejs": "^2.4.2",
+    "jade": "1.x",
+    "js-pipeline": "0.2.x",
+    "jstransformer-marked": "^1.0.1",
+    "marked": "0.3.x",
+    "rupture": "0.6.x",
+    "stylus": "0.54.x"
+  },
+  "repository": {
+    "git": ""
+  },
+  "license": "Apache-2.0"
+}
