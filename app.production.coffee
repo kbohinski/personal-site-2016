@@ -6,7 +6,7 @@ css_pipeline = require 'css-pipeline'
 dynamic_content = require 'dynamic-content'
 
 module.exports =
-  ignores: ['readme.md', '**/layout.*', '**/_*', '.gitignore', 'ship.*conf']
+  ignores: ['readme.md', '**/layout.*', '**/_*', '.gitignore', 'ship.*conf', '_RootsToFirebase.sh']
 
   extensions: [
     js_pipeline(files: 'assets/js/*.js', out: 'js/build.js', minify: true, hash: true),

@@ -63,12 +63,11 @@ a:hover {
 .socials {
     padding-top: 15px;
     letter-spacing: 0.2em;
-    text-align: center;
     font-size: 1.75em;
 }
 
 .padder {
-    padding-top: 25%;
+    padding-top: 15%;
 }
 
 #projects-wrapper {
@@ -89,5 +88,12 @@ a:hover {
 @media (min-width: 40.0rem) {
     #text {
         padding-left: 1.5em;
+    }
+}
+
+/* Larger than desktop screen */
+@media (min-width: 120.0rem) {
+    #main {
+        padding-left: 8em;
     }
 }
