@@ -1,0 +1,132 @@
+==================================================================
+https://keybase.io/kbohinski
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://kboh.codes
+  * I am kbohinski (https://keybase.io/kbohinski) on keybase.
+  * I have a public key ASCXdFe_8LCp6Zdm5R4_dSO52Kd7JIJUaFqdSvsXsOWpWgo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101dfcbdbcd08d5b1416ad700a1a9c932f07458e5edcec3c8bd405f36a6611e58cf0a",
+            "host": "keybase.io",
+            "kid": "0120977457bff0b0a9e99766e51e3f7523b9d8a77b248254685a9d4afb17b0e5a95a0a",
+            "uid": "7b634178636dbc8e9e7177d959f59419",
+            "username": "kbohinski"
+        },
+        "service": {
+            "hostname": "kboh.codes",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.14"
+    },
+    "ctime": 1458690533,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1458690524,
+        "hash": "91443b5f57db85e8f4e8687ac9f500323729295edff5fd20b25429a93cde5c8279fadc0f00b0d0e00582c8d7336f0ace936e4cf048cac0c9bc1142453f0430b8",
+        "seqno": 419018
+    },
+    "prev": "ab0c861a1a200dbf8ade3c5911d18d8ac3ec543393c7456b765924b7167561e4",
+    "seqno": 8,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+g6Rib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgl3RXv/CwqemXZuUeP3UjudineySCVGhanUr7F7DlqVoKp3BheWxvYWTFAvN7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTAxZGZjYmRiY2QwOGQ1YjE0MTZhZDcwMGExYTljOTMyZjA3NDU4ZTVlZGNlYzNjOGJkNDA1ZjM2YTY2MTFlNThjZjBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwOTc3NDU3YmZmMGIwYTllOTk3NjZlNTFlM2Y3NTIzYjlkOGE3N2IyNDgyNTQ2ODVhOWQ0YWZiMTdiMGU1YTk1YTBhIiwidWlkIjoiN2I2MzQxNzg2MzZkYmM4ZTllNzE3N2Q5NTlmNTk0MTkiLCJ1c2VybmFtZSI6Imtib2hpbnNraSJ9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoia2JvaC5jb2RlcyIsInByb3RvY29sIjoiaHR0cHM6In0sInR5cGUiOiJ3ZWJfc2VydmljZV9iaW5kaW5nIiwidmVyc2lvbiI6MX0sImNsaWVudCI6eyJuYW1lIjoia2V5YmFzZS5pbyBnbyBjbGllbnQiLCJ2ZXJzaW9uIjoiMS4wLjE0In0sImN0aW1lIjoxNDU4NjkwNTMzLCJleHBpcmVfaW4iOjUwNDU3NjAwMCwibWVya2xlX3Jvb3QiOnsiY3RpbWUiOjE0NTg2OTA1MjQsImhhc2giOiI5MTQ0M2I1ZjU3ZGI4NWU4ZjRlODY4N2FjOWY1MDAzMjM3MjkyOTVlZGZmNWZkMjBiMjU0MjlhOTNjZGU1YzgyNzlmYWRjMGYwMGIwZDBlMDA1ODJjOGQ3MzM2ZjBhY2U5MzZlNGNmMDQ4Y2FjMGM5YmMxMTQyNDUzZjA0MzBiOCIsInNlcW5vIjo0MTkwMTh9LCJwcmV2IjoiYWIwYzg2MWExYTIwMGRiZjhhZGUzYzU5MTFkMThkOGFjM2VjNTQzMzkzYzc0NTZiNzY1OTI0YjcxNjc1NjFlNCIsInNlcW5vIjo4LCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQEVHUEXr0hcUXXi69hTvAS8F5ivkaGEP8w8i1GpuFkspMRT6UQTVo41D4CxqpKOEICFoP0WHjWmr+aFL783tVAOoc2lnX3R5cGUgo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/kbohinski
+
+==================================================================
+
+==================================================================
+https://keybase.io/kbohinski
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://kevinbohinski.com
+  * I am kbohinski (https://keybase.io/kbohinski) on keybase.
+  * I have a public key with fingerprint 5756 4EE3 97D5 5EFC 871C  FF8B EE72 DD1F 5D9C EEC2
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "client": {
+            "name": "keybase.io node.js client",
+            "version": "0.8.18"
+        },
+        "key": {
+            "eldest_kid": "0101dfcbdbcd08d5b1416ad700a1a9c932f07458e5edcec3c8bd405f36a6611e58cf0a",
+            "fingerprint": "57564ee397d55efc871cff8bee72dd1f5d9ceec2",
+            "host": "keybase.io",
+            "key_id": "ee72dd1f5d9ceec2",
+            "kid": "0101dfcbdbcd08d5b1416ad700a1a9c932f07458e5edcec3c8bd405f36a6611e58cf0a",
+            "uid": "7b634178636dbc8e9e7177d959f59419",
+            "username": "kbohinski"
+        },
+        "service": {
+            "hostname": "kevinbohinski.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1442528282,
+    "expire_in": 157680000,
+    "prev": "22dafcf5c5a5cb33fe7d1bce6b990a2a39c628f3f1e1d93e1adc3d4ebfc8bf74",
+    "seqno": 2,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v2
+
+owGtkm1QVFUYx5cFHeTF2QligRTwVlIEy33dey+GGZONFQIJm+Goy73nnMteWPYu
+u8uuxMBiNUIMTliAKBCZOZpiponhGBOZMAS9qFiOFFgNQX3BmigMHOheRpqa6WPn
+fDlznt/zf14bwgN1+oAp12j8jrapiwFDP4s6y9yj8RWYqMByLK0CA3YZOTzayyGU
+ICwNK0blouBGJllJcCgQmYrcCXeZZMyLXG5ZcagUbuJMBIdVJmu85o3sELk91mIZ
+alYCJ6AERCgCiHOQEQmaMAuQxXGBEHjAU6SEszTDIQZBgAAFOBHSOCNRZsFsJgjE
+cEDCBTWgJDsKkcvpkrUUMYZlzDRCFM9ChkES4FgCSBInIsSSEBISA3mAECBVR5vi
+9vyrGGwxU+tiev/B/895ly3KsaKZogmWM1NmVZFDPGIJloU8w0sMTxO8BrqRa6nx
+omKTHe5iWeuq+u2VAdI6q5Xy92y8smMJMwGlRFVwuhSPAhS7arZ5PM40zdtT7tRw
+HxKtd4WsouyAajOx9n9MkVBR4JE1aYKmSYbk1JuMoV1O2YWsskYwrJnD1aPFQV5V
+kyShIAGJAYzAAJGiJMRCQgTILPI8LpACxQMzyUmURCAC8hQiBAgoSCNRHZcosTSm
+1VbqULA0NZJHKFQl3XKhQ/CUuRBW+Yp+VZAuQK9bvkyvrakuZIVhaXfn9ht0bzRW
+j06v2vpd2MDM5qZHrDYDc/Vs6cb1/nr+RsMfxp1MXUzHyrjeip33R7K3j5V/sfzN
+6uyU/N8MUTWVg74N1aWGtu8tSft69RWz+ey2yqNhMHGm4E5q1FjBB0jOKJ+OaJ/u
+jIjpiLaWHQZh37xl1Ptn77ngXgjxjgw9Sc1cGalrqUqs9pAxtyez/KlixicHU7Yc
+MV5lSyyzF0bOiO/k5z8ccwZub3WseKE5NXPy/fGeA68Orbs3u3Yq6dRnzVnpe/48
+ueGx7l7vINXu63gqNjQpuevp45cu1d5Z74/N9lXb+jZVWerfrnpo4+rcxP7L53aE
+TiceCs9szhneDfy/N2561ptzLq3n8cKJSZd15layQejL/+XQc8NU2F6DMrk6eldu
+bmPG7ryvClI/raVi7efFzp68nMEfS+3u18eunRi2L3xrei2UWBb64b64jrN557fm
+Hp//0r7AGoPX4EwXObGOvV57Onh+8HOjL/6+wLUHD78rkHRe0/h7ffU3tsXvN3CR
+nVF9m0+/tAZuYSzx0Q/ufSLKOzARJhb1wda5jFOTvdd9qaPN3VzbeP9Y3on+lJnn
+jx0YPhK+sqsmyRJZVI/i8OKbXzck/JR1tPLX2biXAy83xF6Zf6bGk9LaEjLq5DJf
+ZLqbuuuM6UG7P147ENPS/UP6xT3zhdtvBV+7SX9ka6t7IGI+yH/yLw==
+=TY5i
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/kbohinski
+
+==================================================================
