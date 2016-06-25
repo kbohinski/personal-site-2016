@@ -70,10 +70,6 @@ a:hover {
     padding-top: 15%;
 }
 
-#projects-wrapper {
-    padding-top: 5em;
-}
-
 /* Mobile */
 @media (max-width: 40.0rem) {
     #main {
@@ -91,9 +87,20 @@ a:hover {
     }
 }
 
-/* Larger than desktop screen */
-@media (min-width: 120.0rem) {
-    #main {
-        padding-left: 8em;
+.fade-up {
+    opacity: 0;
+    animation-name: fadeUp;
+    animation-duration: 1s;
+    animation-delay: 1s;
+    animation-fill-mode: forwards;
+}
+
+@keyframes fadeUp {
+    from {
+        opacity: 0;
+        transform: translateY(1em);
+    }
+    to {
+        opacity: 1;
     }
 }
