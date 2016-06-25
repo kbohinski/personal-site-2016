@@ -1,4 +1,8 @@
 'use strict';
+smoothScroll.init({
+    speed: 500,
+    easing: 'easeInOutCubic'
+});
 
 ;(function () {
     var el = document.getElementById.bind(document);
@@ -10,6 +14,7 @@
         e.preventDefault();
 
         if (!visible) {
+            smoothScroll.animateScroll('#projects');
             Fader.fadeOutWithId('btn-ellipsis', 1);
             Fader.fadeInWithId('projects', 1);
         } else {
