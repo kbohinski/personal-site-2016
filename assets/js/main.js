@@ -25,7 +25,7 @@ smoothScroll.init({
             Fader.fadeOutWithId('projects', 1);
             Fader.fadeInWithId('btn-ellipsis', 1);
             smoothScroll.animateScroll('body');
-            el('projects').innerHTML = '';
+            setTimeout("document.getElementById('projects').innerHTML = '';", 1000);
         }
 
         visible = !visible;
