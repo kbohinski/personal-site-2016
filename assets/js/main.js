@@ -1,4 +1,5 @@
 'use strict';
+
 smoothScroll.init({
     speed: 500,
     easing: 'easeInOutCubic'
@@ -23,6 +24,7 @@ smoothScroll.init({
         } else {
             Fader.fadeOutWithId('projects', 1);
             Fader.fadeInWithId('btn-ellipsis', 1);
+            smoothScroll.animateScroll('body');
             el('projects').innerHTML = '';
         }
 
