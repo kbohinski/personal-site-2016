@@ -8,6 +8,7 @@
     "css-pipeline": "0.3.x",
     "dynamic-content": "^0.3.0",
     "ejs": "^2.4.2",
+    "html-minifier": "^2.1.6",
     "jade": "1.x",
     "js-pipeline": "0.2.x",
     "jstransformer-marked": "^1.0.1",
