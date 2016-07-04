@@ -19,11 +19,9 @@ smoothScroll.init({
         if (!visible) {
             el('projects').innerHTML = content;
             smoothScroll.animateScroll('#projects');
-            Fader.fadeOutWithId('btn-ellipsis', 1);
             Fader.fadeInWithId('projects', 1);
         } else {
             Fader.fadeOutWithId('projects', 1);
-            Fader.fadeInWithId('btn-ellipsis', 1);
             smoothScroll.animateScroll('body');
             setTimeout("document.getElementById('projects').innerHTML = '';", 1000);
         }
@@ -32,5 +30,4 @@ smoothScroll.init({
     }
 
     el('btn-projects').addEventListener('click', toggleProjects, false);
-    el('btn-ellipsis').addEventListener('click', toggleProjects, false);
 })();
