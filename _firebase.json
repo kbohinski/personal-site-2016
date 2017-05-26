@@ -3,6 +3,17 @@
     "rules": "database.rules.json"
   },
   "hosting": {
+    "headers": [
+      {
+        "source": "**/*.@(jpg|jpeg|gif|png|css|pdf|js)",
+        "headers": [
+          {
+            "key": "Cache-Control",
+            "value": "max-age=1209600"
+          }
+        ]
+      }
+    ],
     "cleanUrls": true,
     "trailingSlash": false,
     "public": "public",
@@ -10,6 +21,23 @@
       {
         "source": "**",
         "destination": "/index.html"
+      }
+    ],
+    "redirects": [
+      {
+        "source": "/resume",
+        "destination": "/kevin_bohinski_resume_june_2017.pdf",
+        "type": 302
+      },
+      {
+        "source": "/resume.pdf",
+        "destination": "/kevin_bohinski_resume_june_2017.pdf",
+        "type": 302
+      },
+      {
+        "source": "/diagnoseme",
+        "destination": "https://medium.com/@kboh/using-powerful-machine-learning-from-ibm-watson-to-empower-users-to-self-diagnose-common-ailments-b93dfc1a3543",
+        "type": 302
       }
     ]
   }
